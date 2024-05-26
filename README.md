@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maniteja13&label=Profile%20views&color=0e75b6&style=flat" alt="maniteja13" /> </p>
 
-- 🌱 I’m currently learning **GenAI**
+- 🌱 I’m currently learning **Deep Learning and GenAI**
 
 - 💬 Ask me about **Data Science, Data Analysis and AI**
 
